@@ -41,8 +41,8 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
     <header className={`site-header ${isScrolled ? 'scrolled' : ''}`}>
       <Link href="/" className="logo-brand flex items-center gap-2.5">
         <img
-          src="/bn-aura-logo.jpg"
-          alt="bn.aura Logo"
+          src="/manpreet-anand-logo.jpg"
+          alt="Manpreet Anand Logo"
           className="w-10 h-10 md:w-11 md:h-11 rounded-full object-cover shadow-sm border border-[rgba(229,178,72,0.45)] hover:scale-105 transition-transform"
         />
         <div className="flex flex-col text-left">

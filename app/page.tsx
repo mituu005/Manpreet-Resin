@@ -780,14 +780,14 @@ export default function Page() {
         <div className="about-grid">
           <div className="about-img-wrap reveal-split-left relative">
             <img
-              src="/resin-10.jpg"
-              alt="bn.aura botanical resin art and bridal keepsakes by Bhumi & Nidhi"
+              src="/resin-2.jpg"
+              alt="Manpreet Anand - Resin and Mixed Media Artist"
               className="rounded-2xl shadow-2xl object-cover w-full h-[400px] md:h-[460px] border border-[rgba(229,178,72,0.25)]"
             />
             <div className="absolute -bottom-3 -right-3 sm:-bottom-4 sm:-right-4 bg-[#5E1D28] p-1.5 rounded-full shadow-2xl border-2 border-[#E5B248] z-10">
               <img
-                src="/bn-aura-logo.jpg"
-                alt="bn.aura logo"
+                src="/manpreet-anand-logo.jpg"
+                alt="Manpreet Anand logo"
                 className="w-16 h-16 sm:w-20 sm:h-20 rounded-full object-cover"
               />
             </div>

@@ -37,7 +37,7 @@ export default function Footer() {
             <div className="royal-footer-brand-col">
               <Link href="/" className="royal-footer-logo flex items-center gap-3">
                 <img
-                  src="/bn-aura-logo.jpg"
+                  src="/manpreet-anand-logo.jpg"
                   alt="Manpreet Anand Logo"
                   className="w-12 h-12 md:w-14 md:h-14 rounded-full object-cover shadow-md border-2 border-[#E5B248]"
                 />
